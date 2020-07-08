@@ -1,0 +1,61 @@
+body {
+  background-color: slategrey;
+}
+
+.content-left {
+  border: 2px solid black;
+  flex: 5 2 auto;
+  margin-right: 1rem;
+}
+
+.content-right {
+  border: 2px solid red;
+  flex: 2 5 auto;
+  margin-left: 1rem;
+}
+
+.main {
+  display: flex;
+  border: 2px solid blue;
+}
+
+.image--logo {
+  width: 10rem;
+}
+
+.header {
+  display: flex;
+}
+
+.text {
+  align-self: center;
+}
+.main-container {
+  display: flex;
+}
+.card {
+  
+}
+.fishes {
+display: flex;
+flex-wrap: wrap;
+border: 5px solid blue;
+justify-content: space-evenly;
+}
+.quotes {
+  border: 5px solid yellow;
+}
+.locations {
+  border: 5px solid red;
+}
+.tips {
+  border: 5px solid green;
+}
+.fish {
+  padding: 1rem;
+  border: dashed 2px black;
+  margin: .25rem;
+}
+.fish__image {
+  width: 10rem;
+}
