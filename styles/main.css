@@ -3,20 +3,20 @@ body {
 }
 
 .content-left {
-  border: 2px solid black;
-  flex: 5 2 auto;
+  /* border: 2px solid black; */
+  /* flex: 1 1 auto; */
   margin-right: 1rem;
 }
 
 .content-right {
-  border: 2px solid red;
-  flex: 2 5 auto;
+  /* border: 2px solid red; */
+  /* flex: 1 1 auto; */
   margin-left: 1rem;
 }
 
 .main {
   display: flex;
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
 }
 
 .image--logo {

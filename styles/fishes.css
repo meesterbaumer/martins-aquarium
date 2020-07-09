@@ -1,7 +1,7 @@
 .fishes {
   display: flex;
   flex-wrap: wrap;
-  border: 5px solid blue;
+  /* border: 5px solid blue; */
   justify-content: space-evenly;
   margin: .5rem;
   }
