@@ -2,6 +2,14 @@ body {
   background-color: slategrey;
 }
 
+.heading-text {
+
+}
+.title-container {
+  align-self: center;
+  margin: auto;
+}
+
 .content-left {
   /* border: 2px solid black; */
   /* flex: 1 1 auto; */

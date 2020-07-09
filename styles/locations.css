@@ -1,7 +1,7 @@
 .locations {
   display: flex;
   flex-wrap: wrap;
-  border: 5px solid red;
+  /* border: 5px solid red; */
   justify-content: space-evenly;
   margin: .5rem;
 }
