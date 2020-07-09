@@ -15,4 +15,5 @@
   }
   .fish__image {
     width: 10rem;
+    border-radius: 20px;
   }
