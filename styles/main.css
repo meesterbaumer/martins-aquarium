@@ -30,32 +30,15 @@ body {
 .text {
   align-self: center;
 }
+
 .main-container {
   display: flex;
 }
-.card {
-  
+
+.card { 
+
 }
-.fishes {
-display: flex;
-flex-wrap: wrap;
-border: 5px solid blue;
-justify-content: space-evenly;
-}
-.quotes {
-  border: 5px solid yellow;
-}
-.locations {
-  border: 5px solid red;
-}
-.tips {
-  border: 5px solid green;
-}
-.fish {
-  padding: 1rem;
-  border: dashed 2px black;
-  margin: .25rem;
-}
-.fish__image {
-  width: 10rem;
+
+.article-card {
+
 }
