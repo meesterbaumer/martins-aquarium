@@ -56,3 +56,6 @@ const fishCollection = [
       food: "Cardboard"
   }
 ]
+export const useFish = () => {
+  return fishCollection.slice()
+}
