@@ -1,7 +1,7 @@
 // This module renders individual fish objects as HTML
 
 import { useFish } from "./FishDataProvider.js"
-import { fishAsHTML } from './fish'
+import { fishAsHTML } from './fish.js'
 
 
 export const FishList = () => {
