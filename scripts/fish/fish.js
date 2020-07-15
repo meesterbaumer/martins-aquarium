@@ -9,6 +9,6 @@ export const fishAsHTML = (fishObj) => {
   <p class="fish__length">${fishObj.length}</p>
   <p class="fish__location">${fishObj.location}</p>
   <p class="fish__diet">${fishObj.food}</p>
-</section>
+  </section>
   `
 }
